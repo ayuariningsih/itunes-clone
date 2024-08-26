@@ -10,8 +10,6 @@
 
 <script setup>
 import Logo from '~/components/base/Logo.vue'
-import InputSearch from '~/components/base/InputSearch.vue'
-import ButtonSearch from '~/components/base/ButtonSearch.vue'
 
 const onSearch = (word) => {
   console.log(word)
